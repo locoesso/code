@@ -1,0 +1,10 @@
+/home/esso/github/code/csharp/helloworld/bin/Debug/netcoreapp2.0/helloworld.deps.json
+/home/esso/github/code/csharp/helloworld/bin/Debug/netcoreapp2.0/helloworld.runtimeconfig.json
+/home/esso/github/code/csharp/helloworld/bin/Debug/netcoreapp2.0/helloworld.runtimeconfig.dev.json
+/home/esso/github/code/csharp/helloworld/bin/Debug/netcoreapp2.0/helloworld.dll
+/home/esso/github/code/csharp/helloworld/bin/Debug/netcoreapp2.0/helloworld.pdb
+/home/esso/github/code/csharp/helloworld/obj/Debug/netcoreapp2.0/helloworld.csproj.CoreCompileInputs.cache
+/home/esso/github/code/csharp/helloworld/obj/Debug/netcoreapp2.0/helloworld.AssemblyInfoInputs.cache
+/home/esso/github/code/csharp/helloworld/obj/Debug/netcoreapp2.0/helloworld.AssemblyInfo.cs
+/home/esso/github/code/csharp/helloworld/obj/Debug/netcoreapp2.0/helloworld.dll
+/home/esso/github/code/csharp/helloworld/obj/Debug/netcoreapp2.0/helloworld.pdb
