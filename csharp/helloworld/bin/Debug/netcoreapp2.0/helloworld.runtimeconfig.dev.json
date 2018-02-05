@@ -3,7 +3,7 @@
     "additionalProbingPaths": [
       "/home/esahan/.dotnet/store/|arch|/|tfm|",
       "/home/esahan/.nuget/packages",
-      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      "/home/esahan/.dotnet/sdk/NuGetFallbackFolder"
     ]
   }
 }

@@ -665,7 +665,7 @@
   },
   "packageFolders": {
     "/home/esahan/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/home/esahan/.dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -677,7 +677,7 @@
       "outputPath": "/home/esahan/github/code/csharp/helloworld/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "/home/esahan/.dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "/home/esahan/.nuget/NuGet/NuGet.Config"
@@ -704,7 +704,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0.0",
             "autoReferenced": true
           }
         },
