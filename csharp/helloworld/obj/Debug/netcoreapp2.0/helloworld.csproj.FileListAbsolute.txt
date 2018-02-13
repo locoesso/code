@@ -8,3 +8,13 @@
 /home/esso/github/code/csharp/helloworld/obj/Debug/netcoreapp2.0/helloworld.AssemblyInfo.cs
 /home/esso/github/code/csharp/helloworld/obj/Debug/netcoreapp2.0/helloworld.dll
 /home/esso/github/code/csharp/helloworld/obj/Debug/netcoreapp2.0/helloworld.pdb
+c:\Users\esaha\github\code\csharp\helloworld\bin\Debug\netcoreapp2.0\helloworld.deps.json
+c:\Users\esaha\github\code\csharp\helloworld\bin\Debug\netcoreapp2.0\helloworld.runtimeconfig.json
+c:\Users\esaha\github\code\csharp\helloworld\bin\Debug\netcoreapp2.0\helloworld.runtimeconfig.dev.json
+c:\Users\esaha\github\code\csharp\helloworld\bin\Debug\netcoreapp2.0\helloworld.dll
+c:\Users\esaha\github\code\csharp\helloworld\bin\Debug\netcoreapp2.0\helloworld.pdb
+c:\Users\esaha\github\code\csharp\helloworld\obj\Debug\netcoreapp2.0\helloworld.csproj.CoreCompileInputs.cache
+c:\Users\esaha\github\code\csharp\helloworld\obj\Debug\netcoreapp2.0\helloworld.AssemblyInfoInputs.cache
+c:\Users\esaha\github\code\csharp\helloworld\obj\Debug\netcoreapp2.0\helloworld.AssemblyInfo.cs
+c:\Users\esaha\github\code\csharp\helloworld\obj\Debug\netcoreapp2.0\helloworld.dll
+c:\Users\esaha\github\code\csharp\helloworld\obj\Debug\netcoreapp2.0\helloworld.pdb
