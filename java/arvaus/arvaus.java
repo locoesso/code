@@ -5,12 +5,8 @@ public class arvaus {
 
     public static void main(String[] args) {
         Scanner lukija = new Scanner(System.in);
-        // kun olet palauttanut tehtävän ja saanut siitä pisteet,
-        // kokeile myös seuraavaa:
-
         
         int arvattava = (int) (1 + Math.random() * 100);
-        // int arvattava = 42;
         int luku;
         int arvauksia = 0;
         
