@@ -1,9 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/esso/.dotnet/store/|arch|/|tfm|",
-      "/home/esso/.nuget/packages",
-      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      "/home/locoesso/.dotnet/store/|arch|/|tfm|",
+      "/home/locoesso/.nuget/packages",
+      "/opt/dotnet/sdk/NuGetFallbackFolder"
     ]
   }
 }
