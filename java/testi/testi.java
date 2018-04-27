@@ -6,10 +6,14 @@ class testi {
         Scanner lukija = new Scanner(System.in);
 
         int luku;
+        String kys1 = "Anna luku: ";
+        String tulos = "Luku on: ";
+        String loppu = "Paskaa.";
 
-        System.out.print("Anna luku: ");
+        System.out.print(kys1);
         luku = Integer.parseInt(lukija.nextLine());
 
-        System.out.println("Luku on " + luku);
+        System.out.println(tulos + luku);
+		System.out.println(loppu);
     }
 }
