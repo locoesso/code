@@ -16,6 +16,7 @@ public class SilmukatLopetusMuistaminen {
         int parittomia = 0;
         boolean parillinen;
         
+        System.out.println("Lopeta -1");
         System.out.println("Syöta luvut: ");
         
         while (true) {
