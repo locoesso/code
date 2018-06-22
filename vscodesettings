@@ -1,0 +1,14 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Solarized Light",
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "editor.fontSize": 14,
+    "editor.fontFamily": "'Hack', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "code-runner.executorMap": {
+        "csharp": "cd $dir && dotnet run",
+    },
+    "code-runner.runInTerminal": true
+}

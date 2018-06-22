@@ -18,3 +18,4 @@
 /home/locoesso/github/code/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
 /home/locoesso/github/code/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.dll
 /home/locoesso/github/code/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
+/home/esso/github/code/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.csprojAssemblyReference.cache
