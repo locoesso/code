@@ -1,6 +1,6 @@
 {
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Solarized Light",
+    "workbench.colorTheme": "Material Theme",
     "java.errors.incompleteClasspath.severity": "ignore",
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
@@ -10,5 +10,11 @@
     "code-runner.executorMap": {
         "csharp": "cd $dir && dotnet run",
     },
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "materialTheme.fixIconsRunning": true,
+    "terminal.integrated.fontSize": 12,
+    "workbench.startupEditor": "newUntitledFile",
+    "files.exclude": {
+        "**/.class": true,
+    }
 }
