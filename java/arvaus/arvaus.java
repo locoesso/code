@@ -1,5 +1,3 @@
-package arvaus;
-
 import java.util.Scanner;
 
 public class arvaus {
