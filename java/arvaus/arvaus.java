@@ -31,14 +31,14 @@ public class arvaus {
             }
 
             if (luku < arvattava) {
-                System.out.println("Lukuni on isompi!");
                 arvauksia++;
+                System.out.println("Lukuni on isompi! Arvauksia " + arvauksia);
                 continue;
             }
 
             if (luku > arvattava) {
-                System.out.println("Lukuni on pienempi!");
                 arvauksia++;
+                System.out.println("Lukuni on pienempi! Arvauksia " + arvauksia);
                 continue;
             }
 
