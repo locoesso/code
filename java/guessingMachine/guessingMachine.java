@@ -7,7 +7,7 @@ public class guessingMachine {
         int arvauksia = 0;
         int luku = 0;
         
-        System.out.println(arvattava);
+        // System.out.println(arvattava);
         
         while (true) {
             if (arvattava == luku) {
