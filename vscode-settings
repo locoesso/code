@@ -20,5 +20,5 @@
     },
     "window.menuBarVisibility": "toggle",
     "java.errors.incompleteClasspath.severity": "ignore",
-    "terminal.integrated.fontSize": 13
+    "terminal.integrated.fontSize": 16
 }
