@@ -20,5 +20,10 @@
     },
     "window.menuBarVisibility": "toggle",
     "java.errors.incompleteClasspath.severity": "ignore",
+<<<<<<< HEAD:vscode-settings
     "terminal.integrated.fontSize": 16
+=======
+    "terminal.integrated.fontSize": 14,
+    "editor.fontSize": 14
+>>>>>>> 5231bd8307b8780126f0501a4a0966dcd193fa79:vscode-settings.new
 }
