@@ -1,0 +1,24 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "code-runner.executorMap": {
+        "csharp": "cd $dir && dotnet run",
+    },
+    "code-runner.runInTerminal": true,
+    "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 16,
+    "terminal.integrated.fontFamily": "'monospace', 'Fira Mono'",
+    "terminal.integrated.fontSize": 14,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "window.menuBarVisibility": "toggle",
+    "java.errors.incompleteClasspath.severity": "ignore"
+}
