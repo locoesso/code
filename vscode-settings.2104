@@ -1,16 +1,13 @@
 {
+    "workbench.colorTheme": "Adwaita Base16",
     "workbench.iconTheme": "material-icon-theme",
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
     "git.autofetch": true,
-    "code-runner.executorMap": {
-        "csharp": "cd $dir && dotnet run",
-    },
-    "code-runner.runInTerminal": true,
     "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
-    "editor.fontSize": 16,
+    "editor.fontSize": 14,
     "terminal.integrated.fontFamily": "'monospace', 'Fira Mono'",
-    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontSize": 12,
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "files.exclude": {
@@ -20,5 +17,17 @@
         "**/.factorypath": true
     },
     "window.menuBarVisibility": "toggle",
-    "java.errors.incompleteClasspath.severity": "ignore"
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "code-runner.runInTerminal": true,
+    "debug.terminal.clearBeforeReusing": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "csharp": "cd $dir && dotnet run",
+    }
 }
