@@ -15,7 +15,7 @@
     "debug.terminal.clearBeforeReusing": true,
     "code-runner.clearPreviousOutput": true,
     "code-runner.executorMap": {
-        "csharp": "cd $dir && dotnet run",
+        "csharp": "cd $dir && dotnet run"
     },
     "files.exclude": {
         "**/.classpath": true,
