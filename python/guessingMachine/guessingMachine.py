@@ -8,9 +8,11 @@ while guess != number:
 
     guess = random.randint(1, 1000)
     if guess == number:
+        print(f'Correct number was {number} and it took {attempt} attempts to guess it.')
+        # print(f'{attempt}.\t {guess}')
         break
     elif guess != number:
-        print(f'{attempt}.\t {guess}')
+        # print(f'{attempt}.\t {guess}')
         attempt += 1
     else:
         print('Something went wrong!')
