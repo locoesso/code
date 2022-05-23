@@ -35,4 +35,3 @@ while attempt > 0:
         break
 
 print(msg)
-56
