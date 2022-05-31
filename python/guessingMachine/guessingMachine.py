@@ -20,4 +20,4 @@ while guess != number:
         print('Something went wrong!')
         break
 
-# print(msg) jjfsdijdijfij“
+# print(msg)
