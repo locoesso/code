@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/esso/github/code/csharp/ConsoleApp1/ConsoleApp1.csproj": {}
+    "/home/esso/Github/code/csharp/ConsoleApp1/ConsoleApp1.csproj": {}
   },
   "projects": {
-    "/home/esso/github/code/csharp/ConsoleApp1/ConsoleApp1.csproj": {
+    "/home/esso/Github/code/csharp/ConsoleApp1/ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/esso/github/code/csharp/ConsoleApp1/ConsoleApp1.csproj",
+        "projectUniqueName": "/home/esso/Github/code/csharp/ConsoleApp1/ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "/home/esso/github/code/csharp/ConsoleApp1/ConsoleApp1.csproj",
+        "projectPath": "/home/esso/Github/code/csharp/ConsoleApp1/ConsoleApp1.csproj",
         "packagesPath": "/home/esso/.nuget/packages/",
-        "outputPath": "/home/esso/github/code/csharp/ConsoleApp1/obj/",
+        "outputPath": "/home/esso/Github/code/csharp/ConsoleApp1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/esso/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
         }
       }
     }

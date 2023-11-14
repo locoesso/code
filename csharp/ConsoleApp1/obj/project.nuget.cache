@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J0XmVHJ/FIZ0U0el8m2Z+8rdUJ6dy9OiZpUL3tFj92RDnr925Ac7MeWYHR7ROIkHPbT8KqAXmpy7hBJtXTj3lQ==",
+  "dgSpecHash": "T5sU3QmzrhLby6rluweC9i+6PKZVOdp+tOgrpIO+Bzj9oy5L6w9QETL+ryvhTMQdf9p+RKPGxs0Ph4ShUD+c4g==",
   "success": true,
-  "projectFilePath": "/home/esso/github/code/csharp/ConsoleApp1/ConsoleApp1.csproj",
+  "projectFilePath": "/home/esso/Github/code/csharp/ConsoleApp1/ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
